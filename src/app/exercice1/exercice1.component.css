@@ -1,0 +1,7 @@
+.rectangle {
+  border: 1px solid black;
+  background-color: aquamarine;
+  height: 30px;
+  width: 150px;
+  text-align: center;
+}
